@@ -116,7 +116,6 @@ nav .row > a {
   border-radius: 3px;
   border: 1px solid var(--brand-primary);
   transition: all 0.3s ease;
-  box-shadow: 0 0 7px 2px #b0b4b96a;
 }
 
 nav .row > a i {
@@ -180,7 +179,7 @@ nav .row > a:hover {
   color: var(--neutral-white);
   border: 1px solid var(--brand-primary);
   transition: all 0.3s ease;
-  box-shadow: -2px 2px 7px 3px #b0b4b988;
+  box-shadow: 0 0 7px 2px #b0b4b96a;
 }
 
 .banner .container .row .details a:hover {
