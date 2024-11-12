@@ -116,6 +116,7 @@ nav .row > a {
   border-radius: 3px;
   border: 1px solid var(--brand-primary);
   transition: all 0.3s ease;
+  box-shadow: 0 2px 2px 2px #E0E4E8;
 }
 
 nav .row > a i {
